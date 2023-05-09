@@ -1,6 +1,6 @@
 ### Here is Hanyu Wang. Welcome to my personal page. 👋
 
-I’m currently a undergrade student in USTC majoring in computional mathematics. My research interests are in machine learning, deep learning and data mining.
+I’m currently a third grade undergraduate student in USTC majoring in computional mathematics. My research interests are in machine learning, deep learning and optimization.
 
 - 📫 email me at why0725@mail.ustc.edu.cn
 
