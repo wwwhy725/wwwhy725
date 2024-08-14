@@ -1,8 +1,8 @@
 ### Here is Hanyu Wang. Welcome to my personal page. 👋
 
-I’m currently a senior undergraduate student in USTC majoring in computational mathematics. My research interests are in machine learning, deep learning, and optimization.
+I’m currently a first-year PhD student at Penn State University majoring in informatics.
 
-- 📫 email me at why0725@mail.ustc.edu.cn
+- 📫 email me at hbw5365@psu.edu
 
 <!--
 - 👯 I’m looking to collaborate on ...
