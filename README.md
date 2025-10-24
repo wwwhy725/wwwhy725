@@ -1,6 +1,6 @@
 ### Here is Hanyu Wang. Welcome to my personal page. 👋
 
-I’m currently a first-year PhD student at Penn State University majoring in informatics.
+I’m currently a second-year PhD student at Penn State University majoring in informatics.
 
 - 📫 email me at hbw5365@psu.edu
 
